@@ -1,0 +1,21 @@
+PROMPT:
+I'm learning about astronomy.
+
+What is the largest planet in our solar system?
+
+RESPONSE:
+The largest planet in our solar system is Jupiter. Here are some interesting facts about Jupiter:
+
+1. Mass: Jupiter's mass is more than two and a half times that of all the other planets in the solar system combined. It is about 318 times more massive than Earth.
+
+2. Size: Jupiter has a radius of about 69,911 kilometers (43,441 miles), which is more than 11 times the radius of Earth. You could fit about 1,300 Earths inside Jupiter.
+
+3. Composition: Jupiter is a gas giant, primarily composed of hydrogen and helium. It may have a rocky core, but the majority of its mass is in the form of gas.
+
+4. Moons: Jupiter has 79 known moons, the largest of which are Io, Europa, Ganymede, and Callisto (known as the Galilean moons).
+
+5. Great Red Spot: Jupiter is known for its Great Red Spot, a giant storm that has been raging for hundreds of years. This storm is so large that it could engulf Earth.
+
+6. Orbit: Jupiter orbits the Sun at an average distance of about 778 million kilometers (483 million miles), taking about 12 Earth years to complete one orbit.
+
+Despite its large size, Jupiter is not the most massive planet known to exist. Many exoplanets (planets outside our solar system) have been discovered that are even more massive than Jupiter.

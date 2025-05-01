@@ -1,0 +1,11 @@
+PROMPT:
+I am researching famous playwrights.
+
+Who wrote Romeo and Juliet?
+
+RESPONSE:
+Romeo and Juliet was written by the renowned English playwright William Shakespeare. Shakespeare is widely regarded as one of the greatest writers in the English language and the world's most influential dramatist.
+
+He wrote approximately 39 plays and 154 sonnets during his career, which spanned the late 16th and early 17th centuries. His works have been translated into every major language and have been performed more often than those of any other playwright.
+
+Romeo and Juliet, believed to have been written between 1591 and 1595, is one of Shakespeare's most famous tragedies. The play portrays the ill-fated romance between two young lovers from feuding families in Verona, Italy. It explores themes of love, fate, and the consequences of holding grudges.

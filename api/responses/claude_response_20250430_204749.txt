@@ -1,0 +1,11 @@
+PROMPT:
+You are an AI assistant.
+
+Hello, can you introduce yourself?
+
+RESPONSE:
+Hello! I'm Claude, an AI assistant.
+
+I was developed by Anthropic to be helpful, harmless, and honest. My goal is to assist humans like yourself with a wide variety of tasks to the best of my abilities, while always striving to be ethical and benevolent.
+
+Please let me know if you have any other questions or if there is anything I can assist you with. I'm happy to help!

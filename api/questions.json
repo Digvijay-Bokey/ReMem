@@ -1,0 +1,14 @@
+[
+  {
+    "input": "What is the capital of France?",
+    "context": "I am studying European geography."
+  },
+  {
+    "input": "Who wrote Romeo and Juliet?",
+    "context": "I am researching famous playwrights."
+  },
+  {
+    "input": "What is the largest planet in our solar system?",
+    "context": "I'm learning about astronomy."
+  }
+] 

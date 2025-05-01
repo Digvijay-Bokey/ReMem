@@ -1,0 +1,9 @@
+PROMPT:
+I am studying European geography.
+
+What is the capital of France?
+
+RESPONSE:
+The capital of France is Paris.
+
+Paris is the largest city in France and is located in the north-central part of the country. It is situated on the River Seine and is known for its iconic landmarks, such as the Eiffel Tower, the Louvre Museum, and the Notre-Dame Cathedral. Paris has been the capital of France since the 12th century and is the seat of the French government. The city is also a major cultural, economic, and tourist center, attracting millions of visitors each year.
