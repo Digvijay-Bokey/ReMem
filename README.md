@@ -1,0 +1,2 @@
+ReMem was inspired by the potential of AI in memory care. We recognize that while advanced AI models like Claude can process and recall vast amounts of information, many elderly individuals struggle with memory decline especially without visual aide. By pairing AI's perfect memory with a human-centered interface, we created a system that serves as an externalized memory bank, allowing individuals with cognitive decline to maintain independence and dignity.
+Devpost:https://devpost.com/software/remem-rdlo15
